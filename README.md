@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <samp>「阿龙纳克斯」| 代码写作者 | 动画观赏家</samp>
+  <samp>代码 | 科技 | 动漫 | 影视</samp>
 </p>
 
 <p align="center">
@@ -13,55 +13,60 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faronnaxlin&query=%24.public_repos&label=Repos&color=6272a4&logo=github&style=flat-square" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faronnaxlin&query=%24.followers&label=Followers&color=bd93f9&logo=github&style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=aronnaxlin&color=bd93f9&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faronnaxlin&query=%24.public_repos&label=仓库&color=6272a4&logo=github&style=flat-square" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faronnaxlin&query=%24.followers&label=关注者&color=bd93f9&logo=github&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=aronnaxlin&color=bd93f9&style=flat-square" alt="访问量" />
 </p>
 
 ---
 
-## 🗂️ Projects by Category
+## 📂 项目一览
 
-### 🎌 Bangumi Toolset
-| Project | Description | Stars |
-|---------|-------------|:-----:|
-| [bgm-cli](https://github.com/aronnaxlin/bgm-cli) | Bangumi CLI toolset | [![stars](https://img.shields.io/github/stars/aronnaxlin/bgm-cli?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/bgm-cli) |
-| [md2bbcode](https://github.com/aronnaxlin/md2bbcode) | Markdown → BBCode converter | [![stars](https://img.shields.io/github/stars/aronnaxlin/md2bbcode?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/md2bbcode) |
+<details>
+<summary><b>📦 点击展开查看全部项目（共 14 个）</b></summary>
 
-### 🎨 Frontend Experiment
-| Project | Description | Stars |
-|---------|-------------|:-----:|
-| [CoverShare](https://github.com/aronnaxlin/CoverShare) | Generate liquid card of music albums | [![stars](https://img.shields.io/github/stars/aronnaxlin/CoverShare?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/CoverShare) |
+### 📺 Bangumi 工具
+| 项目 | 说明 | Stars |
+|------|------|:-----:|
+| [bgm-cli](https://github.com/aronnaxlin/bgm-cli) | Bangumi 命令行工具集 | [![stars](https://img.shields.io/github/stars/aronnaxlin/bgm-cli?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/bgm-cli) |
+| [md2bbcode](https://github.com/aronnaxlin/md2bbcode) | Markdown 转 BBCode 转换器 | [![stars](https://img.shields.io/github/stars/aronnaxlin/md2bbcode?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/md2bbcode) |
 
-### 📚 线上学习系统辅助程序
-| Project | Description | Stars |
-|---------|-------------|:-----:|
-| [alphacoding-paste-unlocker](https://github.com/aronnaxlin/alphacoding-paste-unlocker) | Unlock paste for AlphaCoding | [![stars](https://img.shields.io/github/stars/aronnaxlin/alphacoding-paste-unlocker?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/alphacoding-paste-unlocker) |
-| [EDUPLUS-Tools](https://github.com/aronnaxlin/EDUPLUS-Tools) | Courseware downloader & homework scraper | [![stars](https://img.shields.io/github/stars/aronnaxlin/EDUPLUS-Tools?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/EDUPLUS-Tools) |
+### 🎨 前端实验
+| 项目 | 说明 | Stars |
+|------|------|:-----:|
+| [CoverShare](https://github.com/aronnaxlin/CoverShare) | 生成音乐专辑液体卡片 | [![stars](https://img.shields.io/github/stars/aronnaxlin/CoverShare?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/CoverShare) |
+
+### 📚 学习辅助
+| 项目 | 说明 | Stars |
+|------|------|:-----:|
+| [alphacoding-paste-unlocker](https://github.com/aronnaxlin/alphacoding-paste-unlocker) | AlphaCoding 粘贴解锁 | [![stars](https://img.shields.io/github/stars/aronnaxlin/alphacoding-paste-unlocker?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/alphacoding-paste-unlocker) |
+| [EDUPLUS-Tools](https://github.com/aronnaxlin/EDUPLUS-Tools) | 课件下载与作业抓取 | [![stars](https://img.shields.io/github/stars/aronnaxlin/EDUPLUS-Tools?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/EDUPLUS-Tools) |
 
 ### 🎬 影视工具
-| Project | Description | Stars |
-|---------|-------------|:-----:|
-| [tmdb-api-assistant](https://github.com/aronnaxlin/tmdb-api-assistant) | TMDB API assistant | [![stars](https://img.shields.io/github/stars/aronnaxlin/tmdb-api-assistant?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/tmdb-api-assistant) |
-| [GridTrax](https://github.com/aronnaxlin/GridTrax) | Grid-based media tracker | [![stars](https://img.shields.io/github/stars/aronnaxlin/GridTrax?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/GridTrax) |
+| 项目 | 说明 | Stars |
+|------|------|:-----:|
+| [tmdb-api-assistant](https://github.com/aronnaxlin/tmdb-api-assistant) | TMDB API 助手 | [![stars](https://img.shields.io/github/stars/aronnaxlin/tmdb-api-assistant?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/tmdb-api-assistant) |
+| [GridTrax](https://github.com/aronnaxlin/GridTrax) | 网格媒体追踪器 | [![stars](https://img.shields.io/github/stars/aronnaxlin/GridTrax?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/GridTrax) |
 
-### 🛠️ Other Tools
-| Project | Description | Stars |
-|---------|-------------|:-----:|
-| [qwen-pdf2md-converter](https://github.com/aronnaxlin/qwen-pdf2md-converter) | AI-powered OCR: PDF → Markdown | [![stars](https://img.shields.io/github/stars/aronnaxlin/qwen-pdf2md-converter?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/qwen-pdf2md-converter) |
-| [Convert-PPT-to-PDF-Windows](https://github.com/aronnaxlin/Convert-PPT-to-PDF-Windows) | PowerPoint → PDF via PowerShell | [![stars](https://img.shields.io/github/stars/aronnaxlin/Convert-PPT-to-PDF-Windows?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/Convert-PPT-to-PDF-Windows) |
-| [ipod-spotify-player](https://github.com/aronnaxlin/ipod-spotify-player) | iPod-style Spotify player | [![stars](https://img.shields.io/github/stars/aronnaxlin/ipod-spotify-player?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/ipod-spotify-player) |
+### 🛠️ 其他工具
+| 项目 | 说明 | Stars |
+|------|------|:-----:|
+| [qwen-pdf2md-converter](https://github.com/aronnaxlin/qwen-pdf2md-converter) | AI OCR PDF 转 Markdown | [![stars](https://img.shields.io/github/stars/aronnaxlin/qwen-pdf2md-converter?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/qwen-pdf2md-converter) |
+| [Convert-PPT-to-PDF-Windows](https://github.com/aronnaxlin/Convert-PPT-to-PDF-Windows) | PPT 转 PDF 工具 | [![stars](https://img.shields.io/github/stars/aronnaxlin/Convert-PPT-to-PDF-Windows?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/Convert-PPT-to-PDF-Windows) |
+| [ipod-spotify-player](https://github.com/aronnaxlin/ipod-spotify-player) | iPod 风格 Spotify 播放器 | [![stars](https://img.shields.io/github/stars/aronnaxlin/ipod-spotify-player?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/ipod-spotify-player) |
 
-### 🎓 Self-Learning
-| Project | Description | Stars |
-|---------|-------------|:-----:|
-| [cs61b-sp21](https://github.com/aronnaxlin/cs61b-sp21) | UC Berkeley CS61B Data Structures | [![stars](https://img.shields.io/github/stars/aronnaxlin/cs61b-sp21?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/cs61b-sp21) |
-| [open_the_door_for_fortune](https://github.com/aronnaxlin/open_the_door_for_fortune) | CS50P final: guess songs from intros | [![stars](https://img.shields.io/github/stars/aronnaxlin/open_the_door_for_fortune?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/open_the_door_for_fortune) |
-| [Smart-Property-Management-System](https://github.com/aronnaxlin/Smart-Property-Management-System) | Smart property management system | [![stars](https://img.shields.io/github/stars/aronnaxlin/Smart-Property-Management-System?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/Smart-Property-Management-System) |
+### 🎓 自学项目
+| 项目 | 说明 | Stars |
+|------|------|:-----:|
+| [cs61b-sp21](https://github.com/aronnaxlin/cs61b-sp21) | 伯克利 CS61B 数据结构（Java） | [![stars](https://img.shields.io/github/stars/aronnaxlin/cs61b-sp21?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/cs61b-sp21) |
+| [open_the_door_for_fortune](https://github.com/aronnaxlin/open_the_door_for_fortune) | CS50P 期末项目：听歌识曲 | [![stars](https://img.shields.io/github/stars/aronnaxlin/open_the_door_for_fortune?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/open_the_door_for_fortune) |
+| [Smart-Property-Management-System](https://github.com/aronnaxlin/Smart-Property-Management-System) | 智能物业管理系统 | [![stars](https://img.shields.io/github/stars/aronnaxlin/Smart-Property-Management-System?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/Smart-Property-Management-System) |
+
+</details>
 
 ---
 
-## 📺 Now Watching
+## 📺 在看动画
 
 <p align="center">
   <a href="https://bangumi.tv/user/aronnax">
@@ -107,7 +112,7 @@
 <!-- BANGUMI:END -->
 
 <details>
-<summary>🎞️ 点击展开更多在看列表</summary>
+<summary>🎞️ <b>点击展开更多在看列表</b></summary>
 
 | 动画 | 进度 |
 |------|------|
@@ -142,24 +147,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 数据看板
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aronnaxlin&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=aronnaxlin&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub 统计" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronnaxlin&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronnaxlin&layout=compact&theme=dracula&hide_border=true" alt="常用语言" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aronnaxlin&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=aronnaxlin&theme=dracula&hide_border=true" alt="提交连续" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aronnaxlin&theme=dracula&hide_border=true" alt="Contribution Graph" />
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=aronnaxlin&theme=dracula&hide_border=true" alt="贡献热力" />
 </p>
 
 ---
 
-*Last updated: 2026-05-01*
+*上次更新：2026-05-01*
