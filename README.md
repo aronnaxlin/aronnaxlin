@@ -13,8 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faronnaxlin&query=%24.public_repos&label=仓库&color=6272a4&logo=github&style=flat-square" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faronnaxlin&query=%24.followers&label=关注者&color=bd93f9&logo=github&style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=aronnaxlin&color=bd93f9&style=flat-square" alt="访问量" />
 </p>
 
