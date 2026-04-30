@@ -1,0 +1,84 @@
+const fs = require('fs');
+const https = require('https');
+
+const BANGUMI_API = 'https://api.bgm.tv/v0/users/aronnax/collections?subject_type=2&type=3&limit=4&offset=0';
+const README_PATH = 'README.md';
+
+function fetchJSON(url) {
+  return new Promise((resolve, reject) => {
+    https.get(url, { headers: { 'User-Agent': 'aronnaxlin-profile/1.0' } }, (res) => {
+      let data = '';
+      res.on('data', chunk => data += chunk);
+      res.on('end', () => {
+        try { resolve(JSON.parse(data)); } catch (e) { reject(e); }
+      });
+    }).on('error', reject);
+  });
+}
+
+function escapeHtml(text) {
+  return text
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+async function main() {
+  console.log('获取 Bangumi 在看列表...');
+  const data = await fetchJSON(BANGUMI_API);
+  const watching = data.data || [];
+
+  if (watching.length === 0) {
+    console.log('没有在看动画');
+    return;
+  }
+
+  let html = '<table align="center">\n';
+
+  for (let i = 0; i < 4; i += 2) {
+    html += '  <tr>\n';
+    for (let j = i; j < Math.min(i + 2, watching.length); j++) {
+      const item = watching[j];
+      const subject = item.subject;
+      const name = subject.name_cn || subject.name;
+      const img = subject.images?.common || subject.images?.medium || subject.images?.large || '';
+      const url = `https://bgm.tv/subject/${subject.id}`;
+      const progress = item.ep_status !== undefined && subject.eps
+        ? `${item.ep_status} / ${subject.eps}`
+        : (item.ep_status !== undefined ? `${item.ep_status}集` : '未开始');
+
+      html += `    <td align="center" width="200" valign="top">\n`;
+      html += `      <a href="${url}">\n`;
+      html += `        <img src="${escapeHtml(img)}" width="150" alt="${escapeHtml(name)}"><br>\n`;
+      html += `        <b>${escapeHtml(name)}</b>\n`;
+      html += `      </a><br>\n`;
+      html += `      <sub>📺 ${progress}</sub>\n`;
+      html += `    </td>\n`;
+    }
+    html += '  </tr>\n';
+  }
+
+  html += '</table>\n';
+
+  let readme = fs.readFileSync(README_PATH, 'utf8');
+  const startMarker = '<!-- BANGUMI:START -->';
+  const endMarker = '<!-- BANGUMI:END -->';
+
+  const startIdx = readme.indexOf(startMarker);
+  const endIdx = readme.indexOf(endMarker);
+
+  if (startIdx === -1 || endIdx === -1) {
+    console.error('README 中找不到 BANGUMI 标记');
+    process.exit(1);
+  }
+
+  const newReadme = readme.substring(0, startIdx + startMarker.length) + '\n' + html + readme.substring(endIdx);
+  fs.writeFileSync(README_PATH, newReadme);
+  console.log('README 更新成功');
+}
+
+main().catch(err => {
+  console.error('出错:', err);
+  process.exit(1);
+});

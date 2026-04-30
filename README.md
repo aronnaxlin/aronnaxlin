@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6364FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Aronnax+%F0%9F%91%8B" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Aronnax+%F0%9F%91%8B" alt="typing" />
 </h1>
 
 <p align="center">
@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faronnaxlin&query=%24.public_repos&label=Repos&color=24292f&logo=github&style=flat-square" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faronnaxlin&query=%24.followers&label=Followers&color=db6d28&logo=github&style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=aronnaxlin&color=6364ff&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faronnaxlin&query=%24.public_repos&label=Repos&color=6272a4&logo=github&style=flat-square" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faronnaxlin&query=%24.followers&label=Followers&color=bd93f9&logo=github&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=aronnaxlin&color=bd93f9&style=flat-square" alt="Profile views" />
 </p>
 
 ---
@@ -25,57 +25,92 @@
 ### 🎌 Bangumi Toolset
 | Project | Description | Stars |
 |---------|-------------|:-----:|
-| [bgm-cli](https://github.com/aronnaxlin/bgm-cli) | Bangumi CLI toolset | ⭐ 3 |
-| [md2bbcode](https://github.com/aronnaxlin/md2bbcode) | Markdown → BBCode converter | ⭐ 0 |
+| [bgm-cli](https://github.com/aronnaxlin/bgm-cli) | Bangumi CLI toolset | [![stars](https://img.shields.io/github/stars/aronnaxlin/bgm-cli?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/bgm-cli) |
+| [md2bbcode](https://github.com/aronnaxlin/md2bbcode) | Markdown → BBCode converter | [![stars](https://img.shields.io/github/stars/aronnaxlin/md2bbcode?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/md2bbcode) |
 
 ### 🎨 Frontend Experiment
 | Project | Description | Stars |
 |---------|-------------|:-----:|
-| [CoverShare](https://github.com/aronnaxlin/CoverShare) | Generate liquid card of music albums | ⭐ 0 |
+| [CoverShare](https://github.com/aronnaxlin/CoverShare) | Generate liquid card of music albums | [![stars](https://img.shields.io/github/stars/aronnaxlin/CoverShare?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/CoverShare) |
 
 ### 📚 线上学习系统辅助程序
 | Project | Description | Stars |
 |---------|-------------|:-----:|
-| [alphacoding-paste-unlocker](https://github.com/aronnaxlin/alphacoding-paste-unlocker) | Unlock paste for AlphaCoding | ⭐ 0 |
-| [EDUPLUS-Tools](https://github.com/aronnaxlin/EDUPLUS-Tools) | Courseware downloader & homework scraper | ⭐ 0 |
+| [alphacoding-paste-unlocker](https://github.com/aronnaxlin/alphacoding-paste-unlocker) | Unlock paste for AlphaCoding | [![stars](https://img.shields.io/github/stars/aronnaxlin/alphacoding-paste-unlocker?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/alphacoding-paste-unlocker) |
+| [EDUPLUS-Tools](https://github.com/aronnaxlin/EDUPLUS-Tools) | Courseware downloader & homework scraper | [![stars](https://img.shields.io/github/stars/aronnaxlin/EDUPLUS-Tools?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/EDUPLUS-Tools) |
 
 ### 🎬 影视工具
 | Project | Description | Stars |
 |---------|-------------|:-----:|
-| [tmdb-api-assistant](https://github.com/aronnaxlin/tmdb-api-assistant) | TMDB API assistant | ⭐ 0 |
-| [GridTrax](https://github.com/aronnaxlin/GridTrax) | Grid-based media tracker | ⭐ 0 |
+| [tmdb-api-assistant](https://github.com/aronnaxlin/tmdb-api-assistant) | TMDB API assistant | [![stars](https://img.shields.io/github/stars/aronnaxlin/tmdb-api-assistant?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/tmdb-api-assistant) |
+| [GridTrax](https://github.com/aronnaxlin/GridTrax) | Grid-based media tracker | [![stars](https://img.shields.io/github/stars/aronnaxlin/GridTrax?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/GridTrax) |
 
 ### 🛠️ Other Tools
 | Project | Description | Stars |
 |---------|-------------|:-----:|
-| [qwen-pdf2md-converter](https://github.com/aronnaxlin/qwen-pdf2md-converter) | AI-powered OCR: PDF → Markdown | ⭐ 1 |
-| [Convert-PPT-to-PDF-Windows](https://github.com/aronnaxlin/Convert-PPT-to-PDF-Windows) | PowerPoint → PDF via PowerShell | ⭐ 1 |
-| [ipod-spotify-player](https://github.com/aronnaxlin/ipod-spotify-player) | iPod-style Spotify player | ⭐ 0 |
+| [qwen-pdf2md-converter](https://github.com/aronnaxlin/qwen-pdf2md-converter) | AI-powered OCR: PDF → Markdown | [![stars](https://img.shields.io/github/stars/aronnaxlin/qwen-pdf2md-converter?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/qwen-pdf2md-converter) |
+| [Convert-PPT-to-PDF-Windows](https://github.com/aronnaxlin/Convert-PPT-to-PDF-Windows) | PowerPoint → PDF via PowerShell | [![stars](https://img.shields.io/github/stars/aronnaxlin/Convert-PPT-to-PDF-Windows?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/Convert-PPT-to-PDF-Windows) |
+| [ipod-spotify-player](https://github.com/aronnaxlin/ipod-spotify-player) | iPod-style Spotify player | [![stars](https://img.shields.io/github/stars/aronnaxlin/ipod-spotify-player?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/ipod-spotify-player) |
 
 ### 🎓 Self-Learning
 | Project | Description | Stars |
 |---------|-------------|:-----:|
-| [cs61b-sp21](https://github.com/aronnaxlin/cs61b-sp21) | UC Berkeley CS61B Data Structures | ⭐ 0 |
-| [open_the_door_for_fortune](https://github.com/aronnaxlin/open_the_door_for_fortune) | CS50P final: guess songs from intros | ⭐ 0 |
-| [Smart-Property-Management-System](https://github.com/aronnaxlin/Smart-Property-Management-System) | Smart property management system | ⭐ 0 |
+| [cs61b-sp21](https://github.com/aronnaxlin/cs61b-sp21) | UC Berkeley CS61B Data Structures | [![stars](https://img.shields.io/github/stars/aronnaxlin/cs61b-sp21?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/cs61b-sp21) |
+| [open_the_door_for_fortune](https://github.com/aronnaxlin/open_the_door_for_fortune) | CS50P final: guess songs from intros | [![stars](https://img.shields.io/github/stars/aronnaxlin/open_the_door_for_fortune?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/open_the_door_for_fortune) |
+| [Smart-Property-Management-System](https://github.com/aronnaxlin/Smart-Property-Management-System) | Smart property management system | [![stars](https://img.shields.io/github/stars/aronnaxlin/Smart-Property-Management-System?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/Smart-Property-Management-System) |
 
 ---
 
 ## 📺 Now Watching
 
 <p align="center">
-  <a href="https://bangumi.tv/user/aronnax"><img src="https://img.shields.io/badge/Bangumi-30部在看-F09199?style=for-the-badge&logo=anime&logoColor=white" alt="Bangumi Watching" /></a>
+  <a href="https://bangumi.tv/user/aronnax">
+    <img src="https://img.shields.io/badge/Bangumi-30部在看-F09199?style=for-the-badge&logo=anime&logoColor=white" alt="Bangumi" />
+  </a>
 </p>
 
+<!-- BANGUMI:START -->
+<table align="center">
+  <tr>
+    <td align="center" width="200" valign="top">
+      <a href="https://bgm.tv/subject/12">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/c2/0a/12_q23bZ.jpg" width="150" alt="人形电脑天使心"><br>
+        <b>人形电脑天使心</b>
+      </a><br>
+      <sub>📺 0 / 27</sub>
+    </td>
+    <td align="center" width="200" valign="top">
+      <a href="https://bgm.tv/subject/25469">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/b5/75/25469_f0f6Z.jpg" width="150" alt="风筝"><br>
+        <b>风筝</b>
+      </a><br>
+      <sub>📺 2 / 2</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200" valign="top">
+      <a href="https://bgm.tv/subject/517057">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/92/95/517057_257ad.jpg" width="150" alt="我推的孩子 第三季"><br>
+        <b>我推的孩子 第三季</b>
+      </a><br>
+      <sub>📺 10 / 11</sub>
+    </td>
+    <td align="center" width="200" valign="top">
+      <a href="https://bgm.tv/subject/515869">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/e5/b8/515869_H3Z1N.jpg" width="150" alt="剧场版 我心里危险的东西"><br>
+        <b>剧场版 我心里危险的东西</b>
+      </a><br>
+      <sub>📺 0 / 1</sub>
+    </td>
+  </tr>
+</table>
+<!-- BANGUMI:END -->
+
 <details>
-<summary>🎞️ 点击展开在看列表（30 部）</summary>
+<summary>🎞️ 点击展开更多在看列表</summary>
 
 | 动画 | 进度 |
 |------|------|
-| [人形电脑天使心](https://bgm.tv/subject/12) | 0 / 27 |
-| [风筝](https://bgm.tv/subject/25469) | - |
-| [我推的孩子 第三季](https://bgm.tv/subject/517057) | - |
-| [剧场版 我心里危险的东西](https://bgm.tv/subject/515869) | - |
 | [白箱](https://bgm.tv/subject/110467) | - |
 | [恶魔高校 D×D](https://bgm.tv/subject/15910) | - |
 | [主播女孩重度依赖](https://bgm.tv/subject/606263) | - |
