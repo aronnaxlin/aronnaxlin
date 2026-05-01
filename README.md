@@ -93,8 +93,8 @@
   <tr>
     <td align="center" width="200" valign="top">
       <a href="https://bgm.tv/subject/517057">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/92/95/517057_257ad.jpg" width="150" alt="我推的孩子 第三季"><br>
-        <b>我推的孩子 第三季</b>
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/92/95/517057_257ad.jpg" width="150" alt="【我推的孩子】 第三季"><br>
+        <b>【我推的孩子】 第三季</b>
       </a><br>
       <sub>📺 10 / 11</sub>
     </td>
