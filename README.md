@@ -76,12 +76,21 @@
 <table align="center">
   <tr>
     <td align="center" width="200" valign="top">
+      <a href="https://bgm.tv/subject/127563">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/8c/a2/127563_nl66u.jpg" width="150" alt="一拳超人"><br>
+        <b>一拳超人</b>
+      </a><br>
+      <sub>📺 1 / 12</sub>
+    </td>
+    <td align="center" width="200" valign="top">
       <a href="https://bgm.tv/subject/12">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/c2/0a/12_q23bZ.jpg" width="150" alt="人形电脑天使心"><br>
         <b>人形电脑天使心</b>
       </a><br>
       <sub>📺 0 / 27</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="200" valign="top">
       <a href="https://bgm.tv/subject/515869">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/e5/b8/515869_H3Z1N.jpg" width="150" alt="剧场版 我心里危险的东西"><br>
@@ -89,21 +98,12 @@
       </a><br>
       <sub>📺 0 / 1</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="200" valign="top">
       <a href="https://bgm.tv/subject/110467">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/73/26/110467_Fx9tT.jpg" width="150" alt="白箱"><br>
         <b>白箱</b>
       </a><br>
       <sub>📺 9 / 24</sub>
-    </td>
-    <td align="center" width="200" valign="top">
-      <a href="https://bgm.tv/subject/15910">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/03/9b/15910_5XjQ5.jpg" width="150" alt="恶魔高校 D×D"><br>
-        <b>恶魔高校 D×D</b>
-      </a><br>
-      <sub>📺 3 / 12</sub>
     </td>
   </tr>
 </table>
