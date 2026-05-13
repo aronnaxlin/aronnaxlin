@@ -80,7 +80,7 @@
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/8c/a2/127563_nl66u.jpg" width="150" alt="一拳超人"><br>
         <b>一拳超人</b>
       </a><br>
-      <sub>📺 1 / 12</sub>
+      <sub>📺 2 / 12</sub>
     </td>
     <td align="center" width="200" valign="top">
       <a href="https://bgm.tv/subject/12">
