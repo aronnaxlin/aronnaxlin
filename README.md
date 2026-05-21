@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:lilinhan917@gmail.com"><img src="https://img.shields.io/badge/Email-lilinhan917%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:me@aronnax.site"><img src="https://img.shields.io/badge/Email-me%40aronnax.site-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://aronnax.site"><img src="https://img.shields.io/badge/Blog-aronnax.site-6364FF?style=flat-square&logo=hexo&logoColor=white" alt="Blog" /></a>
   <a href="https://bangumi.tv/user/aronnax"><img src="https://img.shields.io/badge/Bangumi-@aronnax-F09199?style=flat-square&logo=anime&logoColor=white" alt="Bangumi" /></a>
 </p>
@@ -148,21 +148,9 @@
 ## 📊 数据看板
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=aronnaxlin&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub 统计" />
-</p>
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronnaxlin&layout=compact&theme=dracula&hide_border=true" alt="常用语言" />
-</p>
-
-<p align="center">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=aronnaxlin&theme=dracula&hide_border=true" alt="提交连续" />
 </p>
 
 <p align="center">
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=aronnaxlin&theme=dracula&hide_border=true" alt="贡献热力" />
 </p>
-
----
-
-*上次更新：2026-05-01*
