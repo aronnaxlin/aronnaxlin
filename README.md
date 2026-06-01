@@ -80,7 +80,7 @@
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/73/26/110467_Fx9tT.jpg" width="150" alt="白箱"><br>
         <b>白箱</b>
       </a><br>
-      <sub>📺 15 / 24</sub>
+      <sub>📺 17 / 24</sub>
     </td>
     <td align="center" width="200" valign="top">
       <a href="https://bgm.tv/subject/127563">
