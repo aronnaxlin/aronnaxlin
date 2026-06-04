@@ -76,12 +76,21 @@
 <table align="center">
   <tr>
     <td align="center" width="200" valign="top">
+      <a href="https://bgm.tv/subject/18624">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/92/f6/18624_ZFj5M.jpg" width="150" alt="回转企鹅罐"><br>
+        <b>回转企鹅罐</b>
+      </a><br>
+      <sub>📺 0 / 24</sub>
+    </td>
+    <td align="center" width="200" valign="top">
       <a href="https://bgm.tv/subject/110467">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/73/26/110467_Fx9tT.jpg" width="150" alt="白箱"><br>
         <b>白箱</b>
       </a><br>
-      <sub>📺 17 / 24</sub>
+      <sub>📺 19 / 24</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="200" valign="top">
       <a href="https://bgm.tv/subject/127563">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/8c/a2/127563_nl66u.jpg" width="150" alt="一拳超人"><br>
@@ -89,21 +98,12 @@
       </a><br>
       <sub>📺 4 / 12</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="200" valign="top">
       <a href="https://bgm.tv/subject/12">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/c2/0a/12_q23bZ.jpg" width="150" alt="人形电脑天使心"><br>
         <b>人形电脑天使心</b>
       </a><br>
       <sub>📺 0 / 27</sub>
-    </td>
-    <td align="center" width="200" valign="top">
-      <a href="https://bgm.tv/subject/515869">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/e5/b8/515869_H3Z1N.jpg" width="150" alt="剧场版 我心里危险的东西"><br>
-        <b>剧场版 我心里危险的东西</b>
-      </a><br>
-      <sub>📺 0 / 1</sub>
     </td>
   </tr>
 </table>
