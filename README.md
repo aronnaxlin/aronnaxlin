@@ -80,14 +80,14 @@
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/92/f6/18624_ZFj5M.jpg" width="150" alt="回转企鹅罐"><br>
         <b>回转企鹅罐</b>
       </a><br>
-      <sub>📺 0 / 24</sub>
+      <sub>📺 1 / 24</sub>
     </td>
     <td align="center" width="200" valign="top">
       <a href="https://bgm.tv/subject/110467">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/73/26/110467_Fx9tT.jpg" width="150" alt="白箱"><br>
         <b>白箱</b>
       </a><br>
-      <sub>📺 19 / 24</sub>
+      <sub>📺 20 / 24</sub>
     </td>
   </tr>
   <tr>
