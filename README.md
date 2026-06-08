@@ -21,7 +21,7 @@
 ## 📂 项目一览
 
 <details>
-<summary><b>📦 点击展开查看全部项目（共 14 个）</b></summary>
+<summary><b>📦 点击展开查看全部项目</b></summary>
 
 ### 📺 Bangumi 工具
 | 项目 | 说明 | Stars |
