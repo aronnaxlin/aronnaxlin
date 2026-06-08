@@ -39,6 +39,7 @@
 |------|------|:-----:|
 | [alphacoding-paste-unlocker](https://github.com/aronnaxlin/alphacoding-paste-unlocker) | AlphaCoding 粘贴解锁 | [![stars](https://img.shields.io/github/stars/aronnaxlin/alphacoding-paste-unlocker?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/alphacoding-paste-unlocker) |
 | [EDUPLUS-Tools](https://github.com/aronnaxlin/EDUPLUS-Tools) | 课件下载与作业抓取 | [![stars](https://img.shields.io/github/stars/aronnaxlin/EDUPLUS-Tools?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/EDUPLUS-Tools) |
+| [MinerUPress](https://github.com/aronnaxlin/minerupress) | 将电子教材转为在线网站 | [![stars](https://img.shields.io/github/stars/aronnaxlin/minerupress?style=flat-square&color=ffb86c&label=⭐)](https://github.com/aronnaxlin/minerupress) |
 
 ### 🎬 影视工具
 | 项目 | 说明 | Stars |
