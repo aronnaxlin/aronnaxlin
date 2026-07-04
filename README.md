@@ -77,21 +77,12 @@
 <table align="center">
   <tr>
     <td align="center" width="200" valign="top">
-      <a href="https://bgm.tv/subject/294993">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/60/fe/294993_JrrzK.jpg" width="150" alt="咒术回战"><br>
-        <b>咒术回战</b>
-      </a><br>
-      <sub>📺 14 / 24</sub>
-    </td>
-    <td align="center" width="200" valign="top">
       <a href="https://bgm.tv/subject/378862">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/7e/ca/378862_24TnR.jpg" width="150" alt="别当欧尼酱了！"><br>
         <b>别当欧尼酱了！</b>
       </a><br>
       <sub>📺 10 / 12</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="200" valign="top">
       <a href="https://bgm.tv/subject/15910">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/03/9b/15910_5XjQ5.jpg" width="150" alt="恶魔高校 D×D"><br>
@@ -99,12 +90,21 @@
       </a><br>
       <sub>📺 4 / 12</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="200" valign="top">
       <a href="https://bgm.tv/subject/51944">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/20/f3/51944_kKjcC.jpg" width="150" alt="堀桑与宫村君"><br>
         <b>堀桑与宫村君</b>
       </a><br>
       <sub>📺 1 / 6</sub>
+    </td>
+    <td align="center" width="200" valign="top">
+      <a href="https://bgm.tv/subject/571784">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg" width="150" alt="在超市后门吸烟的二人"><br>
+        <b>在超市后门吸烟的二人</b>
+      </a><br>
+      <sub>📺 6 / 12</sub>
     </td>
   </tr>
 </table>
