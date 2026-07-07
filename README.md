@@ -77,34 +77,34 @@
 <table align="center">
   <tr>
     <td align="center" width="200" valign="top">
+      <a href="https://bgm.tv/subject/12">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/c2/0a/12_q23bZ.jpg" width="150" alt="人形电脑天使心"><br>
+        <b>人形电脑天使心</b>
+      </a><br>
+      <sub>📺 2 / 27</sub>
+    </td>
+    <td align="center" width="200" valign="top">
       <a href="https://bgm.tv/subject/378862">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/7e/ca/378862_24TnR.jpg" width="150" alt="别当欧尼酱了！"><br>
         <b>别当欧尼酱了！</b>
       </a><br>
       <sub>📺 10 / 12</sub>
     </td>
-    <td align="center" width="200" valign="top">
-      <a href="https://bgm.tv/subject/15910">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/03/9b/15910_5XjQ5.jpg" width="150" alt="恶魔高校 D×D"><br>
-        <b>恶魔高校 D×D</b>
-      </a><br>
-      <sub>📺 4 / 12</sub>
-    </td>
   </tr>
   <tr>
     <td align="center" width="200" valign="top">
-      <a href="https://bgm.tv/subject/51944">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/20/f3/51944_kKjcC.jpg" width="150" alt="堀桑与宫村君"><br>
-        <b>堀桑与宫村君</b>
+      <a href="https://bgm.tv/subject/638497">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg" width="150" alt="相反的你和我 第二季"><br>
+        <b>相反的你和我 第二季</b>
       </a><br>
-      <sub>📺 1 / 6</sub>
+      <sub>📺 0 / 13</sub>
     </td>
     <td align="center" width="200" valign="top">
-      <a href="https://bgm.tv/subject/571784">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg" width="150" alt="在超市后门吸烟的二人"><br>
-        <b>在超市后门吸烟的二人</b>
+      <a href="https://bgm.tv/subject/496276">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_HWJgp.jpg" width="150" alt="攻壳机动队 THE GHOST IN THE SHELL"><br>
+        <b>攻壳机动队 THE GHOST IN THE SHELL</b>
       </a><br>
-      <sub>📺 6 / 12</sub>
+      <sub>📺 0集</sub>
     </td>
   </tr>
 </table>
