@@ -77,25 +77,25 @@
 <table align="center">
   <tr>
     <td align="center" width="200" valign="top">
-      <a href="https://bgm.tv/subject/501963">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg" width="150" alt="无职转生 第三季 ～到了异世界就拿出真本事～"><br>
-        <b>无职转生 第三季 ～到了异世界就拿出真本事～</b>
-      </a><br>
-      <sub>📺 0 / 14</sub>
-    </td>
-    <td align="center" width="200" valign="top">
       <a href="https://bgm.tv/subject/12">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/c2/0a/12_q23bZ.jpg" width="150" alt="人形电脑天使心"><br>
         <b>人形电脑天使心</b>
       </a><br>
-      <sub>📺 4 / 27</sub>
+      <sub>📺 5 / 27</sub>
+    </td>
+    <td align="center" width="200" valign="top">
+      <a href="https://bgm.tv/subject/501963">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg" width="150" alt="无职转生 第三季 ～到了异世界就拿出真本事～"><br>
+        <b>无职转生 第三季 ～到了异世界就拿出真本事～</b>
+      </a><br>
+      <sub>📺 2 / 14</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="200" valign="top">
       <a href="https://bgm.tv/subject/255209">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg" width="150" alt="二十世纪电气目录"><br>
-        <b>二十世纪电气目录</b>
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg" width="150" alt="二十世���电气目录"><br>
+        <b>二十世���电气目录</b>
       </a><br>
       <sub>📺 1 / 13</sub>
     </td>
