@@ -155,3 +155,5 @@
 <p align="center">
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=aronnaxlin&theme=dracula&hide_border=true" alt="贡献热力" />
 </p>
+
+<a href="https://ghfind.com/u/aronnaxlin?ref=badge"><img src="https://ghfind.com/api/card/aronnaxlin?theme=dark" alt="GitHub Roast" width="600" /></a>
