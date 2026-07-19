@@ -57,21 +57,25 @@ async function main() {
 
   html += '  </tr>\n</table>\n';
 
+  const total = data.total ?? watching.length;
+  const badge = `<p align="center">\n  <a href="https://bangumi.tv/user/aronnax">\n    <img src="https://img.shields.io/badge/Bangumi-${total}部在看-F09199?style=for-the-badge&logo=anime&logoColor=white" alt="Bangumi" />\n  </a>\n</p>\n`;
+
   let readme = fs.readFileSync(README_PATH, 'utf8');
-  const startMarker = '<!-- BANGUMI:START -->';
-  const endMarker = '<!-- BANGUMI:END -->';
 
-  const startIdx = readme.indexOf(startMarker);
-  const endIdx = readme.indexOf(endMarker);
+  const replaceBetween = (text, startMarker, endMarker, content) => {
+    const startIdx = text.indexOf(startMarker);
+    const endIdx = text.indexOf(endMarker);
+    if (startIdx === -1 || endIdx === -1) {
+      console.error(`README 中找不到标记: ${startMarker}`);
+      process.exit(1);
+    }
+    return text.substring(0, startIdx + startMarker.length) + '\n' + content + text.substring(endIdx);
+  };
 
-  if (startIdx === -1 || endIdx === -1) {
-    console.error('README 中找不到 BANGUMI 标记');
-    process.exit(1);
-  }
-
-  const newReadme = readme.substring(0, startIdx + startMarker.length) + '\n' + html + readme.substring(endIdx);
-  fs.writeFileSync(README_PATH, newReadme);
-  console.log('README 更新成功');
+  readme = replaceBetween(readme, '<!-- BANGUMI-BADGE:START -->', '<!-- BANGUMI-BADGE:END -->', badge);
+  readme = replaceBetween(readme, '<!-- BANGUMI:START -->', '<!-- BANGUMI:END -->', html);
+  fs.writeFileSync(README_PATH, readme);
+  console.log(`README 更新成功（在看 ${total} 部）`);
 }
 
 main().catch(err => {
