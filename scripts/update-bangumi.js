@@ -34,32 +34,28 @@ async function main() {
     return;
   }
 
-  let html = '<table align="center">\n';
+  let html = '<table align="center">\n  <tr>\n';
 
-  for (let i = 0; i < 4; i += 2) {
-    html += '  <tr>\n';
-    for (let j = i; j < Math.min(i + 2, watching.length); j++) {
-      const item = watching[j];
-      const subject = item.subject;
-      const name = subject.name_cn || subject.name;
-      const img = subject.images?.common || subject.images?.medium || subject.images?.large || '';
-      const url = `https://bgm.tv/subject/${subject.id}`;
-      const progress = item.ep_status !== undefined && subject.eps
-        ? `${item.ep_status} / ${subject.eps}`
-        : (item.ep_status !== undefined ? `${item.ep_status}集` : '未开始');
+  for (let j = 0; j < Math.min(4, watching.length); j++) {
+    const item = watching[j];
+    const subject = item.subject;
+    const name = subject.name_cn || subject.name;
+    const img = subject.images?.common || subject.images?.medium || subject.images?.large || '';
+    const url = `https://bgm.tv/subject/${subject.id}`;
+    const progress = item.ep_status !== undefined && subject.eps
+      ? `${item.ep_status} / ${subject.eps}`
+      : (item.ep_status !== undefined ? `${item.ep_status}集` : '未开始');
 
-      html += `    <td align="center" width="200" valign="top">\n`;
-      html += `      <a href="${url}">\n`;
-      html += `        <img src="${escapeHtml(img)}" width="150" alt="${escapeHtml(name)}"><br>\n`;
-      html += `        <b>${escapeHtml(name)}</b>\n`;
-      html += `      </a><br>\n`;
-      html += `      <sub>📺 ${progress}</sub>\n`;
-      html += `    </td>\n`;
-    }
-    html += '  </tr>\n';
+    html += `    <td align="center" width="180" valign="top">\n`;
+    html += `      <a href="${url}">\n`;
+    html += `        <img src="${escapeHtml(img)}" width="140" alt="${escapeHtml(name)}"><br>\n`;
+    html += `        <b>${escapeHtml(name)}</b>\n`;
+    html += `      </a><br>\n`;
+    html += `      <sub>📺 ${progress}</sub>\n`;
+    html += `    </td>\n`;
   }
 
-  html += '</table>\n';
+  html += '  </tr>\n</table>\n';
 
   let readme = fs.readFileSync(README_PATH, 'utf8');
   const startMarker = '<!-- BANGUMI:START -->';
