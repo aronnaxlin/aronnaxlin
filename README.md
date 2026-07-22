@@ -148,6 +148,13 @@
 <table align="center">
   <tr>
     <td align="center" width="180" valign="top">
+      <a href="https://bgm.tv/subject/12">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/c2/0a/12_q23bZ.jpg" width="140" alt="人形电脑天使心"><br>
+        <b>人形电脑天使心</b>
+      </a><br>
+      <sub>📺 9 / 27</sub>
+    </td>
+    <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/496276">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_Qeu06.jpg" width="140" alt="攻壳机动队 THE GHOST IN THE SHELL"><br>
         <b>攻壳机动队 THE GHOST IN THE SHELL</b>
@@ -167,13 +174,6 @@
         <b>无职转生 第三季 ～到了异世界就拿出真本事～</b>
       </a><br>
       <sub>📺 3 / 14</sub>
-    </td>
-    <td align="center" width="180" valign="top">
-      <a href="https://bgm.tv/subject/12">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/c2/0a/12_q23bZ.jpg" width="140" alt="人形电脑天使心"><br>
-        <b>人形电脑天使心</b>
-      </a><br>
-      <sub>📺 5 / 27</sub>
     </td>
   </tr>
 </table>
