@@ -139,7 +139,7 @@
 <!-- BANGUMI-BADGE:START -->
 <p align="center">
   <a href="https://bangumi.tv/user/aronnax">
-    <img src="https://img.shields.io/badge/Bangumi-36部在看-F09199?style=for-the-badge&logo=anime&logoColor=white" alt="Bangumi" />
+    <img src="https://img.shields.io/badge/Bangumi-35部在看-F09199?style=for-the-badge&logo=anime&logoColor=white" alt="Bangumi" />
   </a>
 </p>
 <!-- BANGUMI-BADGE:END -->
@@ -162,18 +162,18 @@
       <sub>📺 5 / 14</sub>
     </td>
     <td align="center" width="180" valign="top">
-      <a href="https://bgm.tv/subject/12">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/c2/0a/12_q23bZ.jpg" width="140" alt="人形电脑天使心"><br>
-        <b>人形电脑天使心</b>
-      </a><br>
-      <sub>📺 20 / 27</sub>
-    </td>
-    <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/255209">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg" width="140" alt="二十世纪电气目录"><br>
         <b>二十世纪电气目录</b>
       </a><br>
       <sub>📺 2 / 13</sub>
+    </td>
+    <td align="center" width="180" valign="top">
+      <a href="https://bgm.tv/subject/638497">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg" width="140" alt="相反的你和我 第二季"><br>
+        <b>相反的你和我 第二季</b>
+      </a><br>
+      <sub>📺 1 / 13</sub>
     </td>
   </tr>
 </table>
