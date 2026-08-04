@@ -139,7 +139,7 @@
 <!-- BANGUMI-BADGE:START -->
 <p align="center">
   <a href="https://bangumi.tv/user/aronnax">
-    <img src="https://img.shields.io/badge/Bangumi-35部在看-F09199?style=for-the-badge&logo=anime&logoColor=white" alt="Bangumi" />
+    <img src="https://img.shields.io/badge/Bangumi-36部在看-F09199?style=for-the-badge&logo=anime&logoColor=white" alt="Bangumi" />
   </a>
 </p>
 <!-- BANGUMI-BADGE:END -->
@@ -147,6 +147,13 @@
 <!-- BANGUMI:START -->
 <table align="center">
   <tr>
+    <td align="center" width="180" valign="top">
+      <a href="https://bgm.tv/subject/369304">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/4b/85/369304_gC7HZ.jpg" width="140" alt="咒术回战 怀玉･玉折 / 涩谷事变"><br>
+        <b>咒术回战 怀玉･玉折 / 涩谷事变</b>
+      </a><br>
+      <sub>📺 5 / 23</sub>
+    </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/496276">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_Qeu06.jpg" width="140" alt="攻壳机动队 THE GHOST IN THE SHELL"><br>
@@ -163,17 +170,10 @@
     </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/255209">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg" width="140" alt="二十世纪电气目录"><br>
-        <b>二十世纪电气目录</b>
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg" width="140" alt="二十世纪��气目录"><br>
+        <b>二十世纪��气目录</b>
       </a><br>
       <sub>📺 2 / 13</sub>
-    </td>
-    <td align="center" width="180" valign="top">
-      <a href="https://bgm.tv/subject/638497">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg" width="140" alt="相反的你和我 第二季"><br>
-        <b>相反的你和我 第二季</b>
-      </a><br>
-      <sub>📺 1 / 13</sub>
     </td>
   </tr>
 </table>
