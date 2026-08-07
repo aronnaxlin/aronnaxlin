@@ -152,26 +152,26 @@
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/4b/85/369304_gC7HZ.jpg" width="140" alt="咒术回战 怀玉･玉折 / 涩谷事变"><br>
         <b>咒术回战 怀玉･玉折 / 涩谷事变</b>
       </a><br>
-      <sub>📺 5 / 23</sub>
+      <sub>📺 6 / 23</sub>
     </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/496276">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_Qeu06.jpg" width="140" alt="攻壳机动队 THE GHOST IN THE SHELL"><br>
         <b>攻壳机动队 THE GHOST IN THE SHELL</b>
       </a><br>
-      <sub>📺 4 / 10</sub>
+      <sub>📺 5 / 10</sub>
     </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/501963">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg" width="140" alt="无职转生 第三季 ～到了异世界就拿出真本事～"><br>
         <b>无职转生 第三季 ～到了异世界就拿出真本事～</b>
       </a><br>
-      <sub>📺 5 / 14</sub>
+      <sub>📺 6 / 14</sub>
     </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/255209">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg" width="140" alt="二十世纪��气目录"><br>
-        <b>二十世纪��气目录</b>
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg" width="140" alt="二十世纪电气目录"><br>
+        <b>二十世纪电气目录</b>
       </a><br>
       <sub>📺 2 / 13</sub>
     </td>
