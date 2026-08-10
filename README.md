@@ -152,7 +152,7 @@
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/4b/85/369304_gC7HZ.jpg" width="140" alt="咒术回战 怀玉･玉折 / 涩谷事变"><br>
         <b>咒术回战 怀玉･玉折 / 涩谷事变</b>
       </a><br>
-      <sub>📺 6 / 23</sub>
+      <sub>📺 11 / 23</sub>
     </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/496276">
