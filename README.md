@@ -139,7 +139,7 @@
 <!-- BANGUMI-BADGE:START -->
 <p align="center">
   <a href="https://bangumi.tv/user/aronnax">
-    <img src="https://img.shields.io/badge/Bangumi-36部在看-F09199?style=for-the-badge&logo=anime&logoColor=white" alt="Bangumi" />
+    <img src="https://img.shields.io/badge/Bangumi-37部在看-F09199?style=for-the-badge&logo=anime&logoColor=white" alt="Bangumi" />
   </a>
 </p>
 <!-- BANGUMI-BADGE:END -->
@@ -147,6 +147,20 @@
 <!-- BANGUMI:START -->
 <table align="center">
   <tr>
+    <td align="center" width="180" valign="top">
+      <a href="https://bgm.tv/subject/552533">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg" width="140" alt="穹庐下的魔女"><br>
+        <b>穹庐下的魔女</b>
+      </a><br>
+      <sub>📺 4 / 12</sub>
+    </td>
+    <td align="center" width="180" valign="top">
+      <a href="https://bgm.tv/subject/622206">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg" width="140" alt="尼古喵喵"><br>
+        <b>尼古喵喵</b>
+      </a><br>
+      <sub>📺 1集</sub>
+    </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/496276">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_Qeu06.jpg" width="140" alt="攻壳机动队 THE GHOST IN THE SHELL"><br>
@@ -160,20 +174,6 @@
         <b>无职转生 第三季 ～到了异世界就拿出真本事～</b>
       </a><br>
       <sub>📺 7 / 14</sub>
-    </td>
-    <td align="center" width="180" valign="top">
-      <a href="https://bgm.tv/subject/93377">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/db/e4/93377_TEzAK.jpg" width="140" alt="瑞克和莫蒂 第一季"><br>
-        <b>瑞克和莫蒂 第一季</b>
-      </a><br>
-      <sub>📺 1 / 11</sub>
-    </td>
-    <td align="center" width="180" valign="top">
-      <a href="https://bgm.tv/subject/255209">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/ce/3a/255209_9w0tU.jpg" width="140" alt="二十世纪电气目录"><br>
-        <b>二十世纪电气目录</b>
-      </a><br>
-      <sub>📺 2 / 13</sub>
     </td>
   </tr>
 </table>
