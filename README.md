@@ -148,18 +148,18 @@
 <table align="center">
   <tr>
     <td align="center" width="180" valign="top">
+      <a href="https://bgm.tv/subject/622206">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg" width="140" alt="尼古喵喵"><br>
+        <b>尼古喵喵</b>
+      </a><br>
+      <sub>📺 2集</sub>
+    </td>
+    <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/552533">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg" width="140" alt="穹庐下的魔女"><br>
         <b>穹庐下的魔女</b>
       </a><br>
       <sub>📺 4 / 12</sub>
-    </td>
-    <td align="center" width="180" valign="top">
-      <a href="https://bgm.tv/subject/622206">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/622206_dpWcC.jpg" width="140" alt="尼古喵喵"><br>
-        <b>尼古喵喵</b>
-      </a><br>
-      <sub>📺 1集</sub>
     </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/496276">
