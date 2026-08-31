@@ -152,7 +152,7 @@
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg" width="140" alt="穹庐下的魔女"><br>
         <b>穹庐下的魔女</b>
       </a><br>
-      <sub>📺 5 / 12</sub>
+      <sub>📺 7 / 12</sub>
     </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/501963">
