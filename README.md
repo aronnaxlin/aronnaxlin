@@ -152,7 +152,14 @@
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg" width="140" alt="穹庐下的魔女"><br>
         <b>穹庐下的魔女</b>
       </a><br>
-      <sub>📺 8 / 12</sub>
+      <sub>📺 9 / 12</sub>
+    </td>
+    <td align="center" width="180" valign="top">
+      <a href="https://bgm.tv/subject/501963">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg" width="140" alt="无职转生 第三季 ～到了异世界就拿出真本事～"><br>
+        <b>无职转生 第三季 ～到了异世界就拿出真本事～</b>
+      </a><br>
+      <sub>📺 10 / 14</sub>
     </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/496276">
@@ -160,13 +167,6 @@
         <b>攻壳机动队 THE GHOST IN THE SHELL</b>
       </a><br>
       <sub>📺 8 / 10</sub>
-    </td>
-    <td align="center" width="180" valign="top">
-      <a href="https://bgm.tv/subject/501963">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg" width="140" alt="无职转生 第三季 ～到了异世界就拿出真本事～"><br>
-        <b>无职转生 第三季 ～到了异世界就拿出真本事～</b>
-      </a><br>
-      <sub>📺 9 / 14</sub>
     </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/93377">
