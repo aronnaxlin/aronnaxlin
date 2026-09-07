@@ -139,7 +139,7 @@
 <!-- BANGUMI-BADGE:START -->
 <p align="center">
   <a href="https://bangumi.tv/user/aronnax">
-    <img src="https://img.shields.io/badge/Bangumi-36部在看-F09199?style=for-the-badge&logo=anime&logoColor=white" alt="Bangumi" />
+    <img src="https://img.shields.io/badge/Bangumi-37部在看-F09199?style=for-the-badge&logo=anime&logoColor=white" alt="Bangumi" />
   </a>
 </p>
 <!-- BANGUMI-BADGE:END -->
@@ -148,32 +148,32 @@
 <table align="center">
   <tr>
     <td align="center" width="180" valign="top">
+      <a href="https://bgm.tv/subject/5649">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/33/7c/5649_r9s6i.jpg" width="140" alt="妄想学生会"><br>
+        <b>妄想学生会</b>
+      </a><br>
+      <sub>📺 1 / 13</sub>
+    </td>
+    <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/552533">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/28/41/552533_E9DF9.jpg" width="140" alt="穹庐下的魔女"><br>
         <b>穹庐下的魔女</b>
       </a><br>
-      <sub>📺 9 / 12</sub>
-    </td>
-    <td align="center" width="180" valign="top">
-      <a href="https://bgm.tv/subject/501963">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg" width="140" alt="无职转生 第三季 ～到了异世界就拿出真本事～"><br>
-        <b>无职转生 第三季 ～到了异世界就拿出真本事～</b>
-      </a><br>
-      <sub>📺 10 / 14</sub>
+      <sub>📺 10 / 12</sub>
     </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/496276">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_Qeu06.jpg" width="140" alt="攻壳机动队 THE GHOST IN THE SHELL"><br>
         <b>攻壳机动队 THE GHOST IN THE SHELL</b>
       </a><br>
-      <sub>📺 8 / 10</sub>
+      <sub>📺 9 / 10</sub>
     </td>
     <td align="center" width="180" valign="top">
-      <a href="https://bgm.tv/subject/93377">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/db/e4/93377_TEzAK.jpg" width="140" alt="瑞克和莫蒂 第一季"><br>
-        <b>瑞克和莫蒂 第一季</b>
+      <a href="https://bgm.tv/subject/501963">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg" width="140" alt="无职转生 第三季 ～到了���世界就拿出真本事～"><br>
+        <b>无职转生 第三季 ～到了���世界就拿出真本事～</b>
       </a><br>
-      <sub>📺 1 / 11</sub>
+      <sub>📺 10 / 14</sub>
     </td>
   </tr>
 </table>
