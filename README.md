@@ -152,7 +152,7 @@
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/33/7c/5649_r9s6i.jpg" width="140" alt="妄想学生会"><br>
         <b>妄想学生会</b>
       </a><br>
-      <sub>📺 4 / 13</sub>
+      <sub>📺 5 / 13</sub>
     </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/501963">
