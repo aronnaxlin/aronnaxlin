@@ -139,7 +139,7 @@
 <!-- BANGUMI-BADGE:START -->
 <p align="center">
   <a href="https://bangumi.tv/user/aronnax">
-    <img src="https://img.shields.io/badge/Bangumi-35部在看-F09199?style=for-the-badge&logo=anime&logoColor=white" alt="Bangumi" />
+    <img src="https://img.shields.io/badge/Bangumi-34部在看-F09199?style=for-the-badge&logo=anime&logoColor=white" alt="Bangumi" />
   </a>
 </p>
 <!-- BANGUMI-BADGE:END -->
@@ -148,18 +148,18 @@
 <table align="center">
   <tr>
     <td align="center" width="180" valign="top">
-      <a href="https://bgm.tv/subject/501963">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/1f/9e/501963_bXlEP.jpg" width="140" alt="无职转生 第三季 ～到了异世界就拿出真本事～"><br>
-        <b>无职转生 第三季 ～到了异世界就拿出真本事～</b>
+      <a href="https://bgm.tv/subject/638497">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg" width="140" alt="相反的你和我 第二季"><br>
+        <b>相反的你和我 第二季</b>
       </a><br>
-      <sub>📺 13 / 14</sub>
+      <sub>📺 2 / 13</sub>
     </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/571784">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg" width="140" alt="在超市后门吸烟的二人"><br>
         <b>在超市后门吸烟的二人</b>
       </a><br>
-      <sub>📺 7 / 12</sub>
+      <sub>📺 8 / 12</sub>
     </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/5649">
