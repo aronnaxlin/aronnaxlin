@@ -139,7 +139,7 @@
 <!-- BANGUMI-BADGE:START -->
 <p align="center">
   <a href="https://bangumi.tv/user/aronnax">
-    <img src="https://img.shields.io/badge/Bangumi-35部在看-F09199?style=for-the-badge&logo=anime&logoColor=white" alt="Bangumi" />
+    <img src="https://img.shields.io/badge/Bangumi-36部在看-F09199?style=for-the-badge&logo=anime&logoColor=white" alt="Bangumi" />
   </a>
 </p>
 <!-- BANGUMI-BADGE:END -->
@@ -148,11 +148,25 @@
 <table align="center">
   <tr>
     <td align="center" width="180" valign="top">
-      <a href="https://bgm.tv/subject/345980">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/39/06/345980_zE5aQ.jpg" width="140" alt="四叠半时光机布鲁斯"><br>
-        <b>四叠半时光机布鲁斯</b>
+      <a href="https://bgm.tv/subject/5649">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/33/7c/5649_r9s6i.jpg" width="140" alt="妄想学生会"><br>
+        <b>妄想学生会</b>
       </a><br>
-      <sub>📺 4 / 6</sub>
+      <sub>📺 8 / 13</sub>
+    </td>
+    <td align="center" width="180" valign="top">
+      <a href="https://bgm.tv/subject/554779">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_oPitO.jpg" width="140" alt="学生会也有洞！"><br>
+        <b>学生会也有洞！</b>
+      </a><br>
+      <sub>📺 1 / 12</sub>
+    </td>
+    <td align="center" width="180" valign="top">
+      <a href="https://bgm.tv/subject/622288">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/d3/99/622288_nmbC3.jpg" width="140" alt="FX战士久留美"><br>
+        <b>FX战士久留美</b>
+      </a><br>
+      <sub>📺 1 / 12</sub>
     </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/638497">
@@ -160,20 +174,6 @@
         <b>相反的你和我 第二季</b>
       </a><br>
       <sub>📺 2 / 13</sub>
-    </td>
-    <td align="center" width="180" valign="top">
-      <a href="https://bgm.tv/subject/571784">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/6f/42/571784_leRlL.jpg" width="140" alt="在超市后门吸烟的二人"><br>
-        <b>在超市后门吸烟的二人</b>
-      </a><br>
-      <sub>📺 8 / 12</sub>
-    </td>
-    <td align="center" width="180" valign="top">
-      <a href="https://bgm.tv/subject/5649">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/33/7c/5649_r9s6i.jpg" width="140" alt="妄想学生会"><br>
-        <b>妄想学生会</b>
-      </a><br>
-      <sub>📺 6 / 13</sub>
     </td>
   </tr>
 </table>
