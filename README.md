@@ -148,6 +148,13 @@
 <table align="center">
   <tr>
     <td align="center" width="180" valign="top">
+      <a href="https://bgm.tv/subject/622288">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/d3/99/622288_nmbC3.jpg" width="140" alt="FX战士久留美"><br>
+        <b>FX战士久留美</b>
+      </a><br>
+      <sub>📺 2 / 12</sub>
+    </td>
+    <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/5649">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/33/7c/5649_r9s6i.jpg" width="140" alt="妄想学生会"><br>
         <b>妄想学生会</b>
@@ -167,13 +174,6 @@
         <b>某暗部的少女共栖</b>
       </a><br>
       <sub>📺 1集</sub>
-    </td>
-    <td align="center" width="180" valign="top">
-      <a href="https://bgm.tv/subject/622288">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/d3/99/622288_nmbC3.jpg" width="140" alt="FX战士久留美"><br>
-        <b>FX战士久留美</b>
-      </a><br>
-      <sub>📺 1 / 12</sub>
     </td>
   </tr>
 </table>
