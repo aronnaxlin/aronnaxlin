@@ -139,7 +139,7 @@
 <!-- BANGUMI-BADGE:START -->
 <p align="center">
   <a href="https://bangumi.tv/user/aronnax">
-    <img src="https://img.shields.io/badge/Bangumi-37部在看-F09199?style=for-the-badge&logo=anime&logoColor=white" alt="Bangumi" />
+    <img src="https://img.shields.io/badge/Bangumi-38部在看-F09199?style=for-the-badge&logo=anime&logoColor=white" alt="Bangumi" />
   </a>
 </p>
 <!-- BANGUMI-BADGE:END -->
@@ -148,32 +148,32 @@
 <table align="center">
   <tr>
     <td align="center" width="180" valign="top">
-      <a href="https://bgm.tv/subject/622288">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/d3/99/622288_nmbC3.jpg" width="140" alt="FX战士久留美"><br>
-        <b>FX战士久留美</b>
+      <a href="https://bgm.tv/subject/513878">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/db/94/513878_5f77g.jpg" width="140" alt="赛博朋克：边缘行者 2"><br>
+        <b>赛博朋克：边缘行者 2</b>
       </a><br>
-      <sub>📺 2 / 12</sub>
-    </td>
-    <td align="center" width="180" valign="top">
-      <a href="https://bgm.tv/subject/5649">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/33/7c/5649_r9s6i.jpg" width="140" alt="妄想学生会"><br>
-        <b>妄想学生会</b>
-      </a><br>
-      <sub>📺 10 / 13</sub>
+      <sub>📺 4 / 10</sub>
     </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/554779">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_oPitO.jpg" width="140" alt="学生会也有洞！"><br>
         <b>学生会也有洞！</b>
       </a><br>
-      <sub>📺 2 / 12</sub>
+      <sub>📺 3 / 12</sub>
     </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/537738">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/1c/9b/537738_6rr67.jpg" width="140" alt="某暗部的少女共栖"><br>
         <b>某暗部的少女共栖</b>
       </a><br>
-      <sub>📺 1集</sub>
+      <sub>📺 2集</sub>
+    </td>
+    <td align="center" width="180" valign="top">
+      <a href="https://bgm.tv/subject/622288">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/d3/99/622288_nmbC3.jpg" width="140" alt="FX战士久留美"><br>
+        <b>FX战士久留美</b>
+      </a><br>
+      <sub>📺 2 / 12</sub>
     </td>
   </tr>
 </table>
