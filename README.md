@@ -149,10 +149,10 @@
   <tr>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/554779">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_oPitO.jpg" width="140" alt="学生会也有洞！"><br>
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_8C9JY.jpg" width="140" alt="学生会也有洞！"><br>
         <b>学生会也有洞！</b>
       </a><br>
-      <sub>📺 4 / 12</sub>
+      <sub>📺 5 / 12</sub>
     </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/537738">
