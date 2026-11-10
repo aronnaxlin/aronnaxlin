@@ -148,11 +148,18 @@
 <table align="center">
   <tr>
     <td align="center" width="180" valign="top">
+      <a href="https://bgm.tv/subject/554779">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_oPitO.jpg" width="140" alt="学生会也有洞！"><br>
+        <b>学生会也有洞！</b>
+      </a><br>
+      <sub>📺 6 / 12</sub>
+    </td>
+    <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/638497">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg" width="140" alt="相反的你和我 第二季"><br>
         <b>相反的你和我 第二季</b>
       </a><br>
-      <sub>📺 3 / 13</sub>
+      <sub>📺 4 / 13</sub>
     </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/537738">
@@ -160,13 +167,6 @@
         <b>某暗部的少女共栖</b>
       </a><br>
       <sub>📺 4 / 11</sub>
-    </td>
-    <td align="center" width="180" valign="top">
-      <a href="https://bgm.tv/subject/554779">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/17/c7/554779_oPitO.jpg" width="140" alt="学生会也有洞！"><br>
-        <b>学生会也有洞！</b>
-      </a><br>
-      <sub>📺 5 / 12</sub>
     </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/622288">
