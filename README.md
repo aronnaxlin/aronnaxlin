@@ -152,7 +152,7 @@
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/1c/9b/537738_6rr67.jpg" width="140" alt="某暗部的少女共栖"><br>
         <b>某暗部的少女共栖</b>
       </a><br>
-      <sub>📺 6 / 11</sub>
+      <sub>📺 7 / 11</sub>
     </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/554779">
