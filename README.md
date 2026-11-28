@@ -139,7 +139,7 @@
 <!-- BANGUMI-BADGE:START -->
 <p align="center">
   <a href="https://bangumi.tv/user/aronnax">
-    <img src="https://img.shields.io/badge/Bangumi-38部在看-F09199?style=for-the-badge&logo=anime&logoColor=white" alt="Bangumi" />
+    <img src="https://img.shields.io/badge/Bangumi-39部在看-F09199?style=for-the-badge&logo=anime&logoColor=white" alt="Bangumi" />
   </a>
 </p>
 <!-- BANGUMI-BADGE:END -->
@@ -147,6 +147,13 @@
 <!-- BANGUMI:START -->
 <table align="center">
   <tr>
+    <td align="center" width="180" valign="top">
+      <a href="https://bgm.tv/subject/630160">
+        <img src="https://lain.bgm.tv/r/400/pic/cover/l/9e/b5/630160_tL25y.jpg" width="140" alt="黑暗召唤师在地下恋爱中"><br>
+        <b>黑暗召唤师在地下恋爱中</b>
+      </a><br>
+      <sub>📺 1 / 12</sub>
+    </td>
     <td align="center" width="180" valign="top">
       <a href="https://bgm.tv/subject/849">
         <img src="https://lain.bgm.tv/r/400/pic/cover/l/fe/8c/849_9xbj1.jpg" width="140" alt="出包王女"><br>
@@ -167,13 +174,6 @@
         <b>某暗部的少女共栖</b>
       </a><br>
       <sub>📺 7 / 11</sub>
-    </td>
-    <td align="center" width="180" valign="top">
-      <a href="https://bgm.tv/subject/638497">
-        <img src="https://lain.bgm.tv/r/400/pic/cover/l/fa/9b/638497_85455.jpg" width="140" alt="相反的你和我 第二季"><br>
-        <b>相反的你和我 第二季</b>
-      </a><br>
-      <sub>📺 4 / 13</sub>
     </td>
   </tr>
 </table>
